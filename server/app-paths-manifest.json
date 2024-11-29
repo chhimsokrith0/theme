@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/game_navbar/CashDrop/page": "app/game_navbar/CashDrop/page.js",
+  "/game_navbar/Jackpots/page": "app/game_navbar/Jackpots/page.js",
+  "/game_navbar/Megaways/page": "app/game_navbar/Megaways/page.js",
+  "/game_navbar/PopularGames/page": "app/game_navbar/PopularGames/page.js",
+  "/game_navbar/demo/page": "app/game_navbar/demo/page.js",
+  "/game_navbar/allgame/page": "app/game_navbar/allgame/page.js",
+  "/game_sidebar/Fishing/page": "app/game_sidebar/Fishing/page.js",
+  "/game_sidebar/GameProvidersDetail/page": "app/game_sidebar/GameProvidersDetail/page.js",
+  "/game_navbar/TableGames/page": "app/game_navbar/TableGames/page.js",
+  "/game_sidebar/RtpSlots/page": "app/game_sidebar/RtpSlots/page.js",
+  "/game_sidebar/Virtual/page": "app/game_sidebar/Virtual/page.js",
+  "/game_navbar/newGame/page": "app/game_navbar/newGame/page.js",
+  "/game_sidebar/Sport/page": "app/game_sidebar/Sport/page.js",
+  "/game_sidebar/live_casino/page": "app/game_sidebar/live_casino/page.js",
+  "/member-level/page": "app/member-level/page.js",
+  "/page": "app/page.js",
+  "/promo/page": "app/promo/page.js",
+  "/game_sidebar/slots/page": "app/game_sidebar/slots/page.js",
+  "/reward/page": "app/reward/page.js"
+}

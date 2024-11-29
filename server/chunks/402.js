@@ -1,0 +1,1 @@
+"use strict";exports.id=402,exports.ids=[402],exports.modules={4402:(t,r,a)=>{a.d(r,{_xj:()=>i});var d=a(3904);function i(t){return(0,d.k5)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"path",attr:{fill:"none",d:"M0 0h24v24H0z"},child:[]},{tag:"path",attr:{d:"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"},child:[]}]})(t)}}};
